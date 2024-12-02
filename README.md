@@ -4,7 +4,7 @@ Root-finding algorithms are an essential part of numerical analysis and have app
 
 This repository is dedicated to examples and implementations for the theory explained across this series.
 
-The articles are published on [GitHub Pages](https://padiazg.github.io/) and [DEV Community](https://dev.to/padiazg).
+The articles are published on [Pato Diaz](https://padiazg.github.io/) and [DEV Community](https://dev.to/padiazg).
 
 ## Introduction
 
