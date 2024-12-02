@@ -25,3 +25,13 @@ The code examples for these methods can be found in the [part-2](part-2) directo
 ## Future Parts
 
 Future articles will continue to explore more advanced root-finding algorithms and their applications.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Buy me a coffee
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/padiazgy)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
