@@ -11,7 +11,7 @@ The articles are published on [Pato Diaz](https://padiazg.github.io/) and [DEV C
 
 ## Index of Parts
 
-- [Introduction to Root-Finding Algorithms, Part 2](part-2/README.md)
+- [Numerical root-finding algorithms: Bisection, Newton-Raphson and Bisection. Part2](part-2/README.md)
 
 ## Part 2: Introduction to Root-Finding Algorithms
 

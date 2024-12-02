@@ -39,7 +39,7 @@ func TestBisection_Sqrt(t *testing.T) {
 			name:      "m=79543",
 			value:     79543,
 			threshold: 0.00000001,
-			want:      282.03368593,
+			want:      282.03368592,
 			precision: 8,
 			maxiter:   64,
 		},

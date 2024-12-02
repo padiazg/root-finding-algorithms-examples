@@ -1,6 +1,6 @@
 # Numerical Root-Finding Algorithms
 
-This repository contains demonstration code for an article published on [Numerical Root-Finding Part 2](https://padiazg.github.io/posts/numerical-root-finding-part2/). It includes implementations of three numerical root-finding algorithms: Bisection, Newton-Raphson, and Secant.
+This repository contains demonstration code for the article [Numerical root-finding algorithms: Bisection, Newton-Raphson and Bisection. Part2](https://padiazg.github.io/posts/numerical-root-finding-part2/). It includes implementations of three numerical root-finding algorithms: Bisection, Newton-Raphson, and Secant.
 
 All three implementatins calculares the square-root of a fiven number, following the theory explained in the articles.
 
