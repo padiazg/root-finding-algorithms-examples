@@ -61,8 +61,7 @@ func (s Secant) Calc(value float64) float64 {
 		}
 
 		// Set the next iteration values
-		x0 = x1
-		x1 = x2
+		x0, x1 = x1, x2
 	}
 
 	// Append to summary table if available
